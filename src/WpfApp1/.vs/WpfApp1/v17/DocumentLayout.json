@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Klepcha praktika\\2\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA9ACB-B643-4347-A700-44FBA62078AC}|WpfApp1.csproj|C:\\Users\\user\\Desktop\\Klepcha praktika\\2\\WpfApp1\\zadanie4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA9ACB-B643-4347-A700-44FBA62078AC}|WpfApp1.csproj|solutionrelative:zadanie4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA9ACB-B643-4347-A700-44FBA62078AC}|WpfApp1.csproj|C:\\Users\\user\\Desktop\\Klepcha praktika\\2\\WpfApp1\\zadanie4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DDBA9ACB-B643-4347-A700-44FBA62078AC}|WpfApp1.csproj|solutionrelative:zadanie4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA9ACB-B643-4347-A700-44FBA62078AC}|WpfApp1.csproj|c:\\users\\user\\desktop\\klepcha praktika\\2\\wpfapp1\\zadanie1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA9ACB-B643-4347-A700-44FBA62078AC}|WpfApp1.csproj|solutionrelative:zadanie1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA9ACB-B643-4347-A700-44FBA62078AC}|WpfApp1.csproj|C:\\Users\\user\\Desktop\\Klepcha praktika\\2\\WpfApp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DDBA9ACB-B643-4347-A700-44FBA62078AC}|WpfApp1.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA9ACB-B643-4347-A700-44FBA62078AC}|WpfApp1.csproj|C:\\Users\\user\\Desktop\\Klepcha praktika\\2\\WpfApp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA9ACB-B643-4347-A700-44FBA62078AC}|WpfApp1.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA9ACB-B643-4347-A700-44FBA62078AC}|WpfApp1.csproj|C:\\Users\\user\\Desktop\\Klepcha praktika\\2\\WpfApp1\\zadanie3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA9ACB-B643-4347-A700-44FBA62078AC}|WpfApp1.csproj|solutionrelative:zadanie3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA9ACB-B643-4347-A700-44FBA62078AC}|WpfApp1.csproj|C:\\Users\\user\\Desktop\\Klepcha praktika\\2\\WpfApp1\\zadanie3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DDBA9ACB-B643-4347-A700-44FBA62078AC}|WpfApp1.csproj|solutionrelative:zadanie3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA9ACB-B643-4347-A700-44FBA62078AC}|WpfApp1.csproj|C:\\Users\\user\\Desktop\\Klepcha praktika\\2\\WpfApp1\\zadanie1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DDBA9ACB-B643-4347-A700-44FBA62078AC}|WpfApp1.csproj|solutionrelative:zadanie1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA9ACB-B643-4347-A700-44FBA62078AC}|WpfApp1.csproj|C:\\Users\\user\\Desktop\\Klepcha praktika\\2\\WpfApp1\\zadanie2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DDBA9ACB-B643-4347-A700-44FBA62078AC}|WpfApp1.csproj|solutionrelative:zadanie2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA9ACB-B643-4347-A700-44FBA62078AC}|WpfApp1.csproj|C:\\Users\\user\\Desktop\\Klepcha praktika\\2\\WpfApp1\\zadanie2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA9ACB-B643-4347-A700-44FBA62078AC}|WpfApp1.csproj|solutionrelative:zadanie2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zadanie4.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Klepcha praktika\\2\\WpfApp1\\Zadanie4.xaml.cs",
+              "RelativeDocumentMoniker": "Zadanie4.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Klepcha praktika\\2\\WpfApp1\\Zadanie4.xaml.cs",
+              "RelativeToolTip": "Zadanie4.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:39:23.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Zadanie4.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Klepcha praktika\\2\\WpfApp1\\Zadanie4.xaml",
+              "RelativeDocumentMoniker": "Zadanie4.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Klepcha praktika\\2\\WpfApp1\\Zadanie4.xaml",
+              "RelativeToolTip": "Zadanie4.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-19T06:39:20.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Zadanie3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Klepcha praktika\\2\\WpfApp1\\Zadanie3.xaml.cs",
+              "RelativeDocumentMoniker": "Zadanie3.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Klepcha praktika\\2\\WpfApp1\\Zadanie3.xaml.cs",
+              "RelativeToolTip": "Zadanie3.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:39:05.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Zadanie3.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Klepcha praktika\\2\\WpfApp1\\Zadanie3.xaml",
+              "RelativeDocumentMoniker": "Zadanie3.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Klepcha praktika\\2\\WpfApp1\\Zadanie3.xaml",
+              "RelativeToolTip": "Zadanie3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-19T06:39:01.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Zadanie2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Klepcha praktika\\2\\WpfApp1\\Zadanie2.xaml.cs",
+              "RelativeDocumentMoniker": "Zadanie2.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Klepcha praktika\\2\\WpfApp1\\Zadanie2.xaml.cs",
+              "RelativeToolTip": "Zadanie2.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:38:39.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Zadanie2.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Klepcha praktika\\2\\WpfApp1\\Zadanie2.xaml",
+              "RelativeDocumentMoniker": "Zadanie2.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Klepcha praktika\\2\\WpfApp1\\Zadanie2.xaml",
+              "RelativeToolTip": "Zadanie2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-19T06:38:34.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Zadanie1.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Klepcha praktika\\2\\WpfApp1\\Zadanie1.xaml",
+              "RelativeDocumentMoniker": "Zadanie1.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Klepcha praktika\\2\\WpfApp1\\Zadanie1.xaml",
+              "RelativeToolTip": "Zadanie1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-19T06:37:29.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Klepcha praktika\\2\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Klepcha praktika\\2\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-19T06:28:29.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Zadanie1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Klepcha praktika\\2\\WpfApp1\\Zadanie1.xaml.cs",
+              "RelativeDocumentMoniker": "Zadanie1.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Klepcha praktika\\2\\WpfApp1\\Zadanie1.xaml.cs",
+              "RelativeToolTip": "Zadanie1.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:37:34.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Klepcha praktika\\2\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Klepcha praktika\\2\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:28:28.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
